@@ -1,0 +1,207 @@
+body {
+width: 100%;
+height: 100%;
+
+
+}
+#nav{
+list-style-type: none;
+text-align: center;
+font-variant-caps: all-petite-caps;
+
+font-weight: bold;
+font-size: x-large;
+
+}
+#logo {
+
+text-align: center;
+height: 75px;
+ width: 121px;
+ display: flex;
+}
+#nav a {
+text-decoration: none;
+
+
+
+
+}
+#nav ul{
+list-style-type: none;
+
+
+
+}
+#nav ul li {
+
+display: inline-block;
+}
+#nav li a {
+
+color: black;
+
+
+}
+.button.special {
+    background:rgb(61, 59, 73);
+    border-color: red;
+    color: #fff !important;
+    border-radius: 13px;
+    padding: 5px;
+}
+.button.special:hover{
+
+
+    background:rgb(167, 29, 29);
+    border-color: red;
+    color: rgb(61, 59, 73);
+    border-radius: 13px;
+    padding: 5px;
+
+
+}
+/*.button.special3{
+    background:rgb(61, 59, 73);
+    border-color: red;
+    color: #fff !important;
+    border-radius: 13px;
+    padding: 5px;*/
+
+
+
+
+}
+.button.special2{
+
+    background:rgb(61, 59, 73);
+    border-color: red;
+    color: #fff !important;
+    border-radius: 13px;
+    padding: 5px;
+    text-decoration: none;
+
+
+}
+.button.special2:hover{
+
+
+    background:rgb(167, 29, 29);
+    border-color: red;
+    color: rgb(61, 59, 73);
+    border-radius: 13px;
+    padding: 5px;
+
+
+}
+.button.special4{
+
+    background:rgb(61, 59, 73);
+    border-color: red;
+    color: #fff !important;
+    border-radius: 13px;
+    padding: 5px;
+    text-decoration: none;
+
+
+
+}
+.button.special4:hover{
+    background:rgb(167, 29, 29);
+    border-color: red;
+    color: rgb(61, 59, 73);
+    border-radius: 13px;
+    padding: 5px;
+
+
+}
+
+
+    
+.inner{
+    font-size: xx-large;
+background-image: url("image/guns2.jpg");
+text-align: center;
+color: white;
+height: 379px;
+font-variant-caps: all-petite-caps;
+background-position-y: bottom;
+
+font-size: 31px;
+}
+/*.inner:hover{
+
+    background: rgba(52, 27, 43, 0.5);
+
+opacity: 0.2;
+
+}*/
+
+
+.inner p {
+    margin: 0;
+    line-height: 0px;
+}
+.inner a{
+    margin: 0;
+    color: white;
+    line-height: 3em;
+}
+.Weapons h3{
+    text-align: center;
+    font-size: -webkit-xxx-large;
+    border: 2px solid blue;
+    border-left: 0px;
+    border-right: 0px;
+
+
+}
+#range{
+display: block;
+width: 100%;
+height: 100%;
+
+}
+.Weapons{
+
+
+display: inline-block;
+
+}
+
+
+
+
+}
+.Weapons img{
+
+    height: 214px;
+    width: 356px;
+
+}
+.Weapons ul li {
+text-decoration: none;
+list-style-type: none;
+
+
+
+}
+#footer{
+    background-color: cornflowerblue;
+    display: grid;
+}
+#footer ul li {
+
+    text-decoration: none;
+    list-style-type: none;
+    display: block;
+    text-align: center;
+}
+
+
+
+}
+
+
+
+
