@@ -12,6 +12,7 @@ font-variant-caps: all-petite-caps;
 font-weight: bold;
 font-size: x-large;
 
+
 }
 #logo {
 
@@ -71,7 +72,7 @@ color: black;
 
 
 
-}
+
 .button.special2{
 
     background:rgb(61, 59, 73);
@@ -150,7 +151,7 @@ opacity: 0.2;
 .Weapons h3{
     text-align: center;
     font-size: -webkit-xxx-large;
-    border: 2px solid blue;
+    border: 2px solid black;
     border-left: 0px;
     border-right: 0px;
 
@@ -172,7 +173,7 @@ display: inline-block;
 
 
 
-}
+
 .Weapons img{
 
     height: 214px;
@@ -188,7 +189,7 @@ list-style-type: none;
 }
 #footer{
     background-color: cornflowerblue;
-    display: grid;
+    
 }
 #footer ul li {
 
@@ -198,9 +199,34 @@ list-style-type: none;
     text-align: center;
 }
 
+section.special{
+    text-align: center;
+    font-size: x-large;
+    text-decoration: none;
+    list-style-type: none;
+    
+}
+.row{
+display: flex;  
+}
+.row img {
+    height: 214px;
+    width: 356px;
+}
+.button.special5{
+
+    background:rgb(61, 59, 73);
+    border-color: red;
+    color: #fff !important;
+    border-radius: 13px;
+    padding: 5px;
+    text-decoration: none;
 
 
 }
+
+
+
 
 
 
